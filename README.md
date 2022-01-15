@@ -5,7 +5,7 @@ Inet 4.3.6
 Veins 5.2
 Sumo 1.11
 
-##To run exapmles
+## To run exapmles
 Clone this repo by git clone --recursive git@github.com:LotfiBendiaf/Vanet_project.git
 
 *Create a new OMNeT++ workspace.
