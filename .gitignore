@@ -1,0 +1,2 @@
+#Excludes the out folder from future pushes
+/vanet_project/out/
